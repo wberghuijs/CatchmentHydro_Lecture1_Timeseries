@@ -1,7 +1,6 @@
-pandas==1.2.5
+pandas==1.2.4
 matplotlib
 numpy
 scipy
 seaborn 
 ipywidgets
-openpyxl

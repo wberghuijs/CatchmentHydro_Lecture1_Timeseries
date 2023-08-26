@@ -1,7 +1,7 @@
-pandas==1.2.4
+pandas
 matplotlib
 numpy
 scipy
 seaborn 
 ipywidgets
-xlrd==1.2.0
+xlrd

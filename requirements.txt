@@ -4,4 +4,4 @@ numpy
 scipy
 seaborn 
 ipywidgets
-xlrd
+xlrd==1.1.0
